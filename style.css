@@ -1,0 +1,29 @@
+/* "StAuth10244: I Abhay Panchal, 000813104 certify that this material is my original work. 
+                No other person's work has been used without due acknowledgement. 
+                I have not made my work available to anyone else." */
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+#map{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.info{
+    margin-top: 20px;
+}
+
+.heading{
+    text-align: center;
+    color: blue;
+    background-color: aqua;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: 30px;
+}
